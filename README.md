@@ -1,5 +1,7 @@
 # PyInstaller-Action-Windows
 
+## Tried to update it to py 3.12 from 3.10. but didn't get it working. idk why it doesn't wanna switch to py 3.12. if somebody knows more about gh actions and wants to help, please contact me.
+
 Github Action for building executables with PyInstaller
 
 To build your application, you need to specify where your source code is via the `path` argument, this defaults to `src`.
